@@ -1,0 +1,32 @@
+{
+    "functions": [
+        0,
+        1,
+        2,
+        3
+    ],
+    "origin": 0,
+    "destination": 3,
+    "placement": [
+        {
+            "delay": 50,
+            "function": 0,
+            "physical_node": 0
+        },
+        {
+            "delay": 50,
+            "function": 1,
+            "physical_node": 7
+        },
+        {
+            "delay": 50,
+            "function": 2,
+            "physical_node": 9
+        },
+        {
+            "delay": 50,
+            "function": 3,
+            "physical_node": 3
+        }
+    ]
+}
